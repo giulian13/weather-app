@@ -1,4 +1,4 @@
-# itschool-weather
+# funky-weather-app
 
 Project 2: The JS project from my web development course @ IT School
 
